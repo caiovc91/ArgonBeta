@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="Blue">#052954</color>
+    <color name="goldOne">#EAC988</color>
+    <color name="goldTwo">#C89844</color>
+    <color name="goldThree">#DBAF63</color>
+    <color name="green_emission">#228B22</color>
+    <color name="gray">#3b444b</color>
+    <color name="chartbackground">#D5F0BB</color>
+    <color name="lightgreen">#D0F2D3</color>
+</resources>
